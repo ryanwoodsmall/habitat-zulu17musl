@@ -1,5 +1,5 @@
 pkg_origin="ryanwoodsmall"
-pkg_name="zulu11musl"
+pkg_name="zulu17musl"
 pkg_maintainer="ryanwoodsmall <rwoodsmall@gmail.com>"
 ver1="17.0.0"
 ver2="17.28.13"
